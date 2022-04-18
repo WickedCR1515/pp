@@ -1,0 +1,34 @@
+.body{
+    font-family: monospace;
+}
+.container{
+    font-family: monospace;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    
+
+
+}
+body{
+    background-color: azure;
+}
+
+.name p{
+    font-weight: lighter;
+    font-family: monospace;
+}
+table tr td img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+table tr td{
+    font-family: monospace;
+    font-size: 21px;
+    font-weight: 800;
+    
+}
+.dis{
+    font-family: monospace;
+
+}
